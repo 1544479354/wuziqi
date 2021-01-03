@@ -14,11 +14,11 @@
 using namespace std;
 
 /*数据库连接用宏*/
-#define HOST "120.78.165.85"  //数据库端口号
+#define HOST "**********"  //数据库端口号
 #define PORT 3306  // 数据库端口号
-#define USERNAME "1544479354"	//数据库用户名
+#define USERNAME "*******"	//数据库用户名
 #define PASSWORD "abcdefg" //数据库密码
-#define DATABASE "1544479354"	//数据库实例的名字
+#define DATABASE "*******"	//数据库实例的名字
 
 #define N 15//定义棋盘大小为15*15
 
